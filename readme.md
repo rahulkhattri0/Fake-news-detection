@@ -17,5 +17,4 @@ Feel free to star ⭐️ the repository if you find it useful!
 
 Screenshots 🖼️ :
 
-![f85c-34-91-192-217 ngrok-free app_](https://github.com/rahulkhattri0/Fake-news-detection/assets/72620481/fd6297f4-a234-442a-b6c0-84dbf9a901c5)
-
+![f85c-34-91-192-217 ngrok-free app_(Surface Pro 7)](https://github.com/rahulkhattri0/Fake-news-detection/assets/72620481/40e68857-cf83-4689-b9b3-4a6437f2e6bd)
