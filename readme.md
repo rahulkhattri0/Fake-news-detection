@@ -15,6 +15,6 @@ Detect unreliable news articles using BERT-based NLP.
 
 Feel free to star ⭐️ the repository if you find it useful!
 
-Screenshots 🖼️ :
+🖼️ Screenshots :
 
 ![f85c-34-91-192-217 ngrok-free app_(Surface Pro 7)](https://github.com/rahulkhattri0/Fake-news-detection/assets/72620481/40e68857-cf83-4689-b9b3-4a6437f2e6bd)
